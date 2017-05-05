@@ -1,4 +1,6 @@
 # Make picture from Willow Road
+# TODO: Make into shiny app
+
 
 c1 <- 1;
 c2 <- 1;
