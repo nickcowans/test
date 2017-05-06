@@ -9,7 +9,7 @@ n <- 12 # Number of changes in w
 w2 <- 0.4/n # change in w
 h <- 0
 o <- 1
-col <- c('blue', 'green')
+col <- c('black', 'red')
 
 #old <- par()
 png("willow.png", res=300, units='in', width=11, height=11)
